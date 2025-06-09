@@ -34,8 +34,7 @@ This implementation is intended for academic, testing, and research purposes. It
 ## 🧠 Reference
 
 Algorithm adapted from the *UIC Strong Password Test*, developed by the University of Illinois at Chicago.  
-Link: [https://www.uic.edu/apps/strong-password-test/](https://www.uic.edu/apps/strong-password-test/)
-
+Link: [https://www.uic.edu/apps/strong-password-test/](https://www.uic.edu/apps/strong-password/)
 ## 🛠️ Technologies
 
 - Python 3.x
