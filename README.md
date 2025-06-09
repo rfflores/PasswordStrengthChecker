@@ -1,6 +1,6 @@
 # PasswordStrengthEvaluator
 
-This project is a simple and educational implementation of a password strength evaluation tool, based on the heuristic scoring model developed by the *University of Illinois at Chicago* in the [UIC Strong Password Test](https://www.uic.edu/apps/strong-password-test/).
+This project is a simple and educational implementation of a password strength evaluation tool, based on the heuristic scoring model developed by the *University of Illinois at Chicago* in the [UIC Strong Password Test](https://www.uic.edu/apps/strong-password/).
 
 ## 📌 Description
 
